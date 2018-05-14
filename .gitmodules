@@ -1,0 +1,3 @@
+[submodule "manuscript/quizzes"]
+	path = manuscript/quizzes
+	url = git@github.com:spatten/creating-leanpub-courses-quizzes-only.git
